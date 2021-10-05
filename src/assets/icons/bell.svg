@@ -1,0 +1,35 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="75"
+  height="75"
+  viewBox="0 0 75 75"
+  fill="#000"
+><defs><filter
+      id="a"
+      x="0"
+      y="0"
+      width="75"
+      height="75"
+      filterUnits="userSpaceOnUse"
+    ><feOffset dy="5" input="SourceAlpha" /><feGaussianBlur
+        stdDeviation="5"
+        result="b"
+      /><feFlood flood-opacity="0.161" /><feComposite
+        operator="in"
+        in2="b"
+      /><feComposite in="SourceGraphic" /></filter></defs><g
+    transform="translate(-2287 111)"
+  ><g transform="translate(2261.854 -279.146)"><g
+        transform="translate(0 -10)"
+      ><g transform="matrix(1, 0, 0, 1, 25.15, 178.15)" filter="url(#a)"><rect
+            width="45"
+            height="45"
+            rx="10"
+            transform="translate(15 10)"
+            opacity="0.327"
+          /></g><path
+          d="M21.6,17.808c-.95-1.02-2.727-2.555-2.727-7.584A7.762,7.762,0,0,0,12.581,2.6V1.573a1.572,1.572,0,1,0-3.144,0V2.6a7.762,7.762,0,0,0-6.289,7.627c0,5.028-1.777,6.563-2.727,7.584A1.536,1.536,0,0,0,0,18.875a1.574,1.574,0,0,0,1.578,1.573H20.442a1.574,1.574,0,0,0,1.578-1.573,1.535,1.535,0,0,0-.423-1.067Zm-18.278.281c1.043-1.375,2.183-3.654,2.189-7.836,0-.01,0-.019,0-.029a5.505,5.505,0,1,1,11.01,0c0,.01,0,.019,0,.029.005,4.183,1.146,6.462,2.189,7.836Zm7.691,7.078a3.145,3.145,0,0,0,3.144-3.146H7.865A3.145,3.145,0,0,0,11.01,25.166Z"
+          transform="translate(51.636 198.063)"
+          fill="#fff"
+        /></g></g></g></svg>

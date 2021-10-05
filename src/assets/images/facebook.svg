@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="349" height="65" viewBox="0 0 349 65">
+  <defs>
+    <filter id="Rectangle_43" x="0" y="0" width="349" height="65" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#1a294a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_6" x="64" y="0" width="2" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2750" data-name="Group 2750" transform="translate(-39 -723)">
+    <g id="input" transform="translate(7 404)">
+      <g transform="matrix(1, 0, 0, 1, 32, 319)" filter="url(#Rectangle_43)">
+        <g id="Rectangle_43-2" data-name="Rectangle 43" fill="#4867aa" stroke="#4867aa" stroke-width="1">
+          <rect width="349" height="60" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="348" height="59" rx="9.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Facebook" transform="translate(160 356)" fill="#fff" font-size="20" font-family="WorkSans-Medium, Work Sans" font-weight="500"><tspan x="0" y="0">Facebook</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 32, 319)" filter="url(#Line_6)">
+        <line id="Line_6-2" data-name="Line 6" y1="60" transform="translate(64.5)" fill="none" stroke="#1a294a" stroke-width="1"/>
+      </g>
+    </g>
+    <path id="facebook-f-brands" d="M36.907,13.5l.778-4.343H32.821V6.338c0-1.188.679-2.347,2.858-2.347H37.89V.293A31.338,31.338,0,0,0,33.965,0c-4.005,0-6.623,2.08-6.623,5.846v3.31H22.89V13.5h4.452V24h5.479V13.5Z" transform="translate(40.11 741)" fill="#fff"/>
+  </g>
+</svg>

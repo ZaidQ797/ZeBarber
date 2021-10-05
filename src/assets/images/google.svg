@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="349" height="65" viewBox="0 0 349 65">
+  <defs>
+    <filter id="Rectangle_43" x="0" y="0" width="349" height="65" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#91231a"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_7" x="63" y="0" width="2" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2751" data-name="Group 2751" transform="translate(-40 -808)">
+    <g id="input" transform="translate(7.5 489)">
+      <g transform="matrix(1, 0, 0, 1, 32.5, 319)" filter="url(#Rectangle_43)">
+        <g id="Rectangle_43-2" data-name="Rectangle 43" fill="#e94235" stroke="#e94235" stroke-width="1">
+          <rect width="349" height="60" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="348" height="59" rx="9.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Google" transform="translate(173.5 356)" fill="#fff" font-size="20" font-family="WorkSans-Medium, Work Sans" font-weight="500"><tspan x="0" y="0">Google</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 32.5, 319)" filter="url(#Line_7)">
+        <line id="Line_7-2" data-name="Line 7" y1="60" transform="translate(63.5)" fill="none" stroke="#91231a" stroke-width="1"/>
+      </g>
+    </g>
+    <path id="google-brands" d="M23,20.281C23,27.127,18.433,32,11.689,32A11.833,11.833,0,0,1,0,20,11.833,11.833,0,0,1,11.689,8a11.084,11.084,0,0,1,7.838,3.14l-3.181,3.14c-4.162-4.123-11.9-1.026-11.9,5.719a7.425,7.425,0,0,0,7.244,7.577A6.368,6.368,0,0,0,18.325,22.4H11.689V18.277H22.816a10.791,10.791,0,0,1,.184,2Z" transform="translate(59 818)" fill="#fff"/>
+  </g>
+</svg>

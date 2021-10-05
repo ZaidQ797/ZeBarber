@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "588965472745",
+    "project_id": "zebarber-65383",
+    "storage_bucket": "zebarber-65383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588965472745:android:5e014e56b10c8942100378",
+        "android_client_info": {
+          "package_name": "com.ze.barber.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588965472745-7ovckiv00ja8r042g91m8e189pjhfqut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ze.barber.user",
+            "certificate_hash": "1b05dbeaefb3eb871fe3a587e9b4991053990c78"
+          }
+        },
+        {
+          "client_id": "588965472745-rt3bsprcn2410nvp0anb3tgqplrmjs89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NQByuuxbuz35XPNnsqUDTyM8t2pkDj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588965472745-rt3bsprcn2410nvp0anb3tgqplrmjs89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588965472745-93kv8g8dqjvmgvaqia1n8osd46gtbso9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ze.barber.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
